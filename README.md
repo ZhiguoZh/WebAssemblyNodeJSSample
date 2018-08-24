@@ -1,6 +1,11 @@
 # WebAssemblyNodeJSSample
 Compile a simple C code and execute in Node.js
 
+## Preliminary
+On my machine, I have emcc and Node.js installed as a preparation of this project. I list the version information for your reference:
+* Node.js v8.9.1
+* emcc 1.38.11 
+
 ## Compile
 To compile the source code, we should firstly set the environment for emsdk:
 ```bash
